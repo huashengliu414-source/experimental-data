@@ -1,0 +1,8 @@
+# 忽略临时文件
+PortableGit/
+git-lfs/
+git_work/
+git_upload_work/
+*.7z.exe
+*.zip
+.gitattributes
